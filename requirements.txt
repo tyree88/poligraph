@@ -1,0 +1,14 @@
+reflex
+# FastAPI - Modern web framework for building APIs
+# - Chosen for its speed, ease of use, and automatic documentation
+fastapi
+
+# Uvicorn - Lightning-fast ASGI server
+# - Required to run FastAPI applications
+# - Provides excellent performance and development features
+uvicorn
+
+# ATProto - Official Bluesky/AT Protocol client library
+# - Handles authentication and communication with Bluesky network
+# - Provides typed models for request/response handling
+atproto 
