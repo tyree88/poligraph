@@ -167,5 +167,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
+- Your Name - [tyreepearson88@gmail.com](mailto:tyreepearson88@gmail.com)
 - Project Link: [https://github.com/tyree88/poligraph](https://github.com/tyree88/poligraph)
